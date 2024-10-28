@@ -1,0 +1,38 @@
+/* Quiz.css */
+.quiz-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.quiz-container h1 {
+    font-size: 2.2em;
+    margin-bottom: 10px;
+    color: #4a4a4a;
+}
+
+.quiz-container p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.quiz-container button {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 5px;
+    font-size: 1em;
+    transition: background 0.3s;
+}
+
+.quiz-container button:hover {
+    background: #45a049;
+}
