@@ -1,0 +1,3 @@
+[submodule "quiz_project/frontend"]
+	path = quiz_project/frontend
+	url = https://github.com/scubaspencer/online_quiz/tree/master/quiz_project
